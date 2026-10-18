@@ -2,7 +2,7 @@
 
 I built this for the County ICT assessment. The idea is simple: instead of walking to a county office or calling someone, a citizen can report a problem like a broken streetlight, a burst water pipe or uncollected garbage from their phone or laptop, then follow it until it's fixed. On the other side, county staff get one dashboard where they can see every report, update its status and reply to the person who sent it.
 
-**Try it here:** https://github.com/patoh285
+**Try it here:** https://patoh285.github.io/ecitizen-service-muranga/
 It's plain HTML, CSS and JavaScript. No framework, nothing to install, no server to run.
 
 ## What it does
